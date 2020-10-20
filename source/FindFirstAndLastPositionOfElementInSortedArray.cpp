@@ -1,3 +1,11 @@
+//
+//	main.cpp
+//
+//	Created by Jo Hyuk Jun on 2012.
+//	Copyright © 2020 Jo Hyuk Jun. All rights reserved.
+//
+
+
 /*
 Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
 

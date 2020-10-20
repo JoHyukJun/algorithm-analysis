@@ -1,3 +1,13 @@
+'''
+
+    main.py
+
+    Created by Jo Hyuk Jun on 2020
+    Copyright © 2020 Jo Hyuk Jun. All rights reserved.
+
+'''
+
+
 def Rotate(in_key):
     m_size = len(in_key)
     tmp_mat = [[0 for _ in range(m_size)] for _ in range(m_size)]

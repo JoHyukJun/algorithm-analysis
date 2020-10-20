@@ -1,4 +1,12 @@
-﻿#include <iostream>
+﻿//
+//	main.cpp
+//
+//	Created by Jo Hyuk Jun on 2012.
+//	Copyright © 2020 Jo Hyuk Jun. All rights reserved.
+//
+
+
+#include <iostream>
 #include <queue>
 
 #define MAX 1001

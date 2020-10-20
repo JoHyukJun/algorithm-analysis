@@ -1,3 +1,11 @@
+//
+//	main.cpp
+//
+//	Created by Jo Hyuk Jun on 2012.
+//	Copyright © 2020 Jo Hyuk Jun. All rights reserved.
+//
+
+
 /*
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
 

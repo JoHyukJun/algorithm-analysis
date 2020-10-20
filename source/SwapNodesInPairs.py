@@ -1,4 +1,14 @@
 '''
+
+    main.py
+
+    Created by Jo Hyuk Jun on 2020
+    Copyright © 2020 Jo Hyuk Jun. All rights reserved.
+
+'''
+
+
+'''
 Given a linked list, swap every two adjacent nodes and return its head.
 
 You may not modify the values in the list's nodes, only nodes itself may be changed.

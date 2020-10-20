@@ -1,3 +1,13 @@
+'''
+
+    main.py
+
+    Created by Jo Hyuk Jun on 2020
+    Copyright © 2020 Jo Hyuk Jun. All rights reserved.
+
+'''
+
+
 def ReplaceSpaces(inStr, trueLength):
     spaceCoount = 0
     index = 0
