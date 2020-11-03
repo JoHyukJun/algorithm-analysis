@@ -19,7 +19,7 @@ for i in range(n):
     if temp[i] in card:
         card[temp[i]] += 1
     else:
-        card.setdefault(temp[i], 0)
+        card.setdefault(temp[i], 1)
 
 m = int(sys.stdin.readline())
 
@@ -30,4 +30,3 @@ for i in range(m):
         print(card[ckr[i]], end=' ')
     else:
         print(0, end=' ')
-
