@@ -7,13 +7,13 @@
 
 '''
 
-'''
+''' input sample
 
 import sys
 
 
 n = int(sys.stdin.readline())
-n_list = list(map(int, sys.stdin.readline().rstrip().split(' ')))
+test = []
 
 for _ in range(n):
     test.append(list(map(str, sys.stdin.readline().rstrip().split(' '))))
