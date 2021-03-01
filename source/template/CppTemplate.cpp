@@ -1,8 +1,8 @@
 //
 //	main.cpp
 //
-//	Created by Jo Hyuk Jun on 2020.
-//	Copyright © 2020 Jo Hyuk Jun. All rights reserved.
+//	Created by JO HYUK JUN on 2021.
+//	Copyright © 2021 JO HYUK JUN. All rights reserved.
 //
 
 
