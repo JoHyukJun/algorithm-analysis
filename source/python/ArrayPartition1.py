@@ -8,12 +8,6 @@
 '''
 
 
-from typing import TypeVar
-
-T = TypeVar('T')
-
-def po(x: T) -> int:
-    return x + 1
-
-print(po(1))
-print(po(1.09))
+class Solution:
+    def arrayPairSum(self, nums: List[int]) -> int:
+        return sum(sorted(nums)[::2])
