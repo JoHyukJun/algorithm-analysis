@@ -7,15 +7,22 @@
 
 '''
 
-'''
 
 import sys
 
 
 n = int(sys.stdin.readline())
-n_list = list(map(int, sys.stdin.readline().rstrip().split(' ')))
+rope = []
+answer = 0
 
 for _ in range(n):
-    test.append(list(map(str, sys.stdin.readline().rstrip().split(' '))))
+    rope.append(int(sys.stdin.readline()))
 
-'''
+rope.sort()
+
+for r in rope:
+    if answer < n * r:
+        answer = n * r
+    n -= 1
+
+print(answer)
