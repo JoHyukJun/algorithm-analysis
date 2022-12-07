@@ -210,7 +210,7 @@ Project Link: [https://github.com/JoHyukJun/algorithm-analysis](https://github.c
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org
-[C++]: https://img.shields.io/badge/cpp-20232A?style=for-the-badge&logo=cpp&logoColor=61DAFB
+[C++]: https://img.shields.io/badge/cpp-000000?style=for-the-badge&logo=cpp&logoColor=white
 [C++-url]: https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170
-[Swift]: https://img.shields.io/badge/swift-20232A?style=for-the-badge&logo=swift&logoColor=61DAFB
+[Swift]: https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=white
 [Swift-url]: https://developer.apple.com/swift/
